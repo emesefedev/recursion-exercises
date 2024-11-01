@@ -8,4 +8,4 @@
 ```
 
 - [x] Fibonacci
-- [ ] Merge Sort
+- [x] Merge Sort
